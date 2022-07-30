@@ -5,6 +5,8 @@ package com.lz.algorithm.complexity;
  */
 public class TimeComplexity {
 
+    // O(1) < o(logn) < O(N) < O(N^2)
+
     /***
      * T(n) = 3n; 执行次数是线性的   o(n)
      * @param n 输入规模
